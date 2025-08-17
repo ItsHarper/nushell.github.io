@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--precision, -p {number}`: digits of precision
+ -  `--precision, -p <number>`: digits of precision
 
 
 ## Input/output types:

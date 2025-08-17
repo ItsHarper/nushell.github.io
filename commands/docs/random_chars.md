@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--length, -l {oneof<int, filesize>}`: Number of chars (default 25)
+ -  `--length, -l <oneof<int, filesize>>`: Number of chars (default 25)
 
 
 ## Input/output types:

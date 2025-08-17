@@ -22,8 +22,8 @@ contributors: false
 
 ## Flags
 
- -  `--replace, -r {string}`: Return original path with dirname replaced by this string
- -  `--num-levels, -n {int}`: Number of directories to walk up
+ -  `--replace, -r <string>`: Return original path with dirname replaced by this string
+ -  `--num-levels, -n <int>`: Number of directories to walk up
 
 
 ## Input/output types:

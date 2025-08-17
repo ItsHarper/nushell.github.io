@@ -29,7 +29,7 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Flags
 
- -  `--name, -n {string}`: New column name. For lazy dataframes and expressions syntax, use a `polars as` expression to name a column.
+ -  `--name, -n <string>`: New column name. For lazy dataframes and expressions syntax, use a `polars as` expression to name a column.
 
 ## Parameters
 

@@ -29,7 +29,7 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Flags
 
- -  `--namespaces, -n {record}`: map of prefixes to namespace URIs
+ -  `--namespaces, -n <record>`: map of prefixes to namespace URIs
 
 ## Parameters
 

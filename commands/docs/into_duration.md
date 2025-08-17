@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--unit, -u {string}`: Unit to convert number into (will have an effect only with integer input)
+ -  `--unit, -u <string>`: Unit to convert number into (will have an effect only with integer input)
 
 ## Parameters
 

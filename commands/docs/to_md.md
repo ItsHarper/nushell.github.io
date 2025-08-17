@@ -24,7 +24,7 @@ contributors: false
 
  -  `--pretty, -p`: Formats the Markdown table to vertically align items
  -  `--per-element, -e`: treat each row as markdown syntax element
- -  `--center, -c {list<cell-path>}`: Formats the Markdown table to center given columns
+ -  `--center, -c <list<cell-path>>`: Formats the Markdown table to center given columns
 
 
 ## Input/output types:

@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--endian, -e {string}`: byte encode endian, available options: native(default), little, big
+ -  `--endian, -e <string>`: byte encode endian, available options: native(default), little, big
 
 ## Parameters
 

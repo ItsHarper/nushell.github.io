@@ -22,13 +22,13 @@ contributors: false
 
 ## Flags
 
- -  `--output-format, -o {string}`: prints dates in this format (defaults to %Y-%m-%d)
- -  `--input-format, -i {string}`: give argument dates in this format (defaults to %Y-%m-%d)
- -  `--begin-date, -b {string}`: beginning date range
- -  `--end-date, -e {string}`: ending date
- -  `--increment, -n {oneof<duration, int>}`: increment dates by this duration (defaults to days if integer)
- -  `--days, -d {int}`: number of days to print (ignored if periods is used)
- -  `--periods, -p {int}`: number of periods to print
+ -  `--output-format, -o <string>`: prints dates in this format (defaults to %Y-%m-%d)
+ -  `--input-format, -i <string>`: give argument dates in this format (defaults to %Y-%m-%d)
+ -  `--begin-date, -b <string>`: beginning date range
+ -  `--end-date, -e <string>`: ending date
+ -  `--increment, -n <oneof<duration, int>>`: increment dates by this duration (defaults to days if integer)
+ -  `--days, -d <int>`: number of days to print (ignored if periods is used)
+ -  `--periods, -p <int>`: number of periods to print
  -  `--reverse, -r`: print dates in reverse
 
 

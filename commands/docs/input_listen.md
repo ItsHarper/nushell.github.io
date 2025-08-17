@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--types, -t {list<string>}`: Listen for event of specified types only (can be one of: focus, key, mouse, paste, resize)
+ -  `--types, -t <list<string>>`: Listen for event of specified types only (can be one of: focus, key, mouse, paste, resize)
  -  `--raw, -r`: Add raw_code field with numeric value of keycode and raw_flags with bit mask flags
 
 

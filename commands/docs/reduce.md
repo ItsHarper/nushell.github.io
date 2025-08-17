@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--fold, -f {any}`: reduce with initial value
+ -  `--fold, -f <any>`: reduce with initial value
 
 ## Parameters
 

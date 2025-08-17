@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--stride, -s {int}`: the number of rows to slide over between windows
+ -  `--stride, -s <int>`: the number of rows to slide over between windows
  -  `--remainder, -r`: yield last chunks even if they have fewer elements than size
 
 ## Parameters

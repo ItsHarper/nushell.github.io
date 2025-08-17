@@ -22,10 +22,10 @@ contributors: false
 
 ## Flags
 
- -  `--version, -v {int}`: The UUID version to generate (1, 3, 4, 5, 7). Defaults to 4 if not specified.
- -  `--namespace, -n {string}`: The namespace for v3 and v5 UUIDs (dns, url, oid, x500). Required for v3 and v5.
- -  `--name, -s {string}`: The name string for v3 and v5 UUIDs. Required for v3 and v5.
- -  `--mac, -m {string}`: The MAC address (node ID) used to generate v1 UUIDs. Required for v1.
+ -  `--version, -v <int>`: The UUID version to generate (1, 3, 4, 5, 7). Defaults to 4 if not specified.
+ -  `--namespace, -n <string>`: The namespace for v3 and v5 UUIDs (dns, url, oid, x500). Required for v3 and v5.
+ -  `--name, -s <string>`: The name string for v3 and v5 UUIDs. Required for v3 and v5.
+ -  `--mac, -m <string>`: The MAC address (node ID) used to generate v1 UUIDs. Required for v1.
 
 
 ## Input/output types:

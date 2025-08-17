@@ -22,8 +22,8 @@ contributors: false
 
 ## Flags
 
- -  `--table-name, -t {string}`: name of the table you want to delete or delete from
- -  `--where-clause, -w {string}`: a sql string to use as a where clause without the WHERE keyword
+ -  `--table-name, -t <string>`: name of the table you want to delete or delete from
+ -  `--where-clause, -w <string>`: a sql string to use as a where clause without the WHERE keyword
 
 
 ## Input/output types:

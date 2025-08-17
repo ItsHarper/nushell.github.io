@@ -23,7 +23,7 @@ contributors: false
 ## Flags
 
  -  `--signed, -s`: always treat input number as a signed number
- -  `--number-bytes, -n {int}`: the word size in number of bytes, it can be 1, 2, 4, 8, auto, default value `8`
+ -  `--number-bytes, -n <int>`: the word size in number of bytes, it can be 1, 2, 4, 8, auto, default value `8`
 
 ## Parameters
 

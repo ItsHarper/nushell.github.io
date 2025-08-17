@@ -22,9 +22,9 @@ contributors: false
 
 ## Flags
 
- -  `--table-name, -t {string}`: name of the table you want to insert into
- -  `--update-record, -u {record}`: a record of column names and column values to update in the specified table
- -  `--where-clause, -w {string}`: a sql string to use as a where clause without the WHERE keyword
+ -  `--table-name, -t <string>`: name of the table you want to insert into
+ -  `--update-record, -u <record>`: a record of column names and column values to update in the specified table
+ -  `--where-clause, -w <string>`: a sql string to use as a where clause without the WHERE keyword
 
 
 ## Input/output types:

@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--head {bool}`: Show or hide column headers (default true)
+ -  `--head <bool>`: Show or hide column headers (default true)
  -  `--index, -i`: Show row indexes when viewing a list
  -  `--tail, -t`: Start with the viewport scrolled to the bottom
  -  `--peek, -p`: When quitting, output the value of the cell the cursor was on

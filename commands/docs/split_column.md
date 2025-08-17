@@ -23,7 +23,7 @@ contributors: false
 ## Flags
 
  -  `--collapse-empty, -c`: remove empty columns
- -  `--number, -n {int}`: Split into maximum number of items
+ -  `--number, -n <int>`: Split into maximum number of items
  -  `--regex, -r`: separator is a regular expression
 
 ## Parameters

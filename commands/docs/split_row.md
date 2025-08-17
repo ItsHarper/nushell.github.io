@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--number, -n {int}`: Split into maximum number of items
+ -  `--number, -n <int>`: Split into maximum number of items
  -  `--regex, -r`: use regex syntax for separator
 
 ## Parameters

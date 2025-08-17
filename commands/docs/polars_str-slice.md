@@ -29,7 +29,7 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Flags
 
- -  `--length, -l {int}`: optional length
+ -  `--length, -l <int>`: optional length
 
 ## Parameters
 

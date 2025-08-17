@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--replace, -r {string}`: Return original path with basename replaced by this string
+ -  `--replace, -r <string>`: Return original path with basename replaced by this string
 
 
 ## Input/output types:

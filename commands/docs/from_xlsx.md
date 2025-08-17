@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--sheets, -s {list<string>}`: Only convert specified sheets
+ -  `--sheets, -s <list<string>>`: Only convert specified sheets
 
 
 ## Input/output types:

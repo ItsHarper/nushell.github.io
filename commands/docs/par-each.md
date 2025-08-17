@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--threads, -t {int}`: the number of threads to use
+ -  `--threads, -t <int>`: the number of threads to use
  -  `--keep-order, -k`: keep sequence of output same as the order of input
 
 ## Parameters

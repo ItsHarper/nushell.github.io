@@ -26,7 +26,7 @@ contributors: false
  -  `--no-color, -n`: remove all ansi colors in output
  -  `--dark, -d`: indicate your background color is a darker color
  -  `--partial, -p`: only output the html for the content itself
- -  `--theme, -t {string}`: the name of the theme to use (github, blulocolight, ...); case-insensitive
+ -  `--theme, -t <string>`: the name of the theme to use (github, blulocolight, ...); case-insensitive
  -  `--list, -l`: produce a color table of all available themes
 
 

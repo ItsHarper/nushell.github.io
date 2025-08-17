@@ -29,7 +29,7 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Flags
 
- -  `--subset, -s {any}`: Subset of column(s) to use to maintain rows (lazy df)
+ -  `--subset, -s <any>`: Subset of column(s) to use to maintain rows (lazy df)
  -  `--last, -l`: Keeps last unique value. Default keeps first value (lazy df)
  -  `--maintain-order, -k`: Keep the same order as the original DataFrame (lazy df)
 

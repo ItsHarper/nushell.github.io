@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--result {any}`: Expected output of example.
+ -  `--result <any>`: Expected output of example.
 
 ## Parameters
 

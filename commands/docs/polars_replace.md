@@ -30,8 +30,8 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 ## Flags
 
  -  `--strict, -s`: Require that all values must be replaced or throw an error (ignored if `old` or `new` are expressions).
- -  `--default, -d {any}`: Set values that were not replaced to this value. If no default is specified, (default), an error is raised if any values were not replaced. Accepts expression input. Non-expression inputs are parsed as literals.
- -  `--return-dtype, -t {string}`: Data type of the resulting expression. If set to `null` (default), the data type is determined automatically based on the other inputs.
+ -  `--default, -d <any>`: Set values that were not replaced to this value. If no default is specified, (default), an error is raised if any values were not replaced. Accepts expression input. Non-expression inputs are parsed as literals.
+ -  `--return-dtype, -t <string>`: Data type of the resulting expression. If set to `null` (default), the data type is determined automatically based on the other inputs.
 
 ## Parameters
 

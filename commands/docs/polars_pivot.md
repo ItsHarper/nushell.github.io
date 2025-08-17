@@ -29,11 +29,11 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Flags
 
- -  `--on, -o {list<string>}`: column names for pivoting
- -  `--index, -i {list<string>}`: column names for indexes
- -  `--values, -v {list<string>}`: column names used as value columns
- -  `--aggregate, -a {string}`: Aggregation to apply when pivoting. The following are supported: first, sum, min, max, mean, median, count, last
- -  `--separator, -p {string}`: Delimiter in generated column names in case of multiple `values` columns (default '_')
+ -  `--on, -o <list<string>>`: column names for pivoting
+ -  `--index, -i <list<string>>`: column names for indexes
+ -  `--values, -v <list<string>>`: column names used as value columns
+ -  `--aggregate, -a <string>`: Aggregation to apply when pivoting. The following are supported: first, sum, min, max, mean, median, count, last
+ -  `--separator, -p <string>`: Delimiter in generated column names in case of multiple `values` columns (default '_')
  -  `--sort, -s`: Sort columns
  -  `--streamable, -t`: Whether or not to use the polars streaming engine. Only valid for lazy dataframes
 

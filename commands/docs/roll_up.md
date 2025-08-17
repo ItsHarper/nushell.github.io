@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--by, -b {int}`: Number of rows to roll
+ -  `--by, -b <int>`: Number of rows to roll
 
 
 ## Input/output types:

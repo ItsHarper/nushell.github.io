@@ -23,8 +23,8 @@ contributors: false
 ## Flags
 
  -  `--raw, -r`: remove all of the whitespace (overwrites -i and -t)
- -  `--indent, -i {number}`: specify indentation width
- -  `--tabs, -t {number}`: specify indentation tab quantity
+ -  `--indent, -i <number>`: specify indentation width
+ -  `--tabs, -t <number>`: specify indentation tab quantity
  -  `--serialize, -s`: serialize nushell types that cannot be deserialized
 
 

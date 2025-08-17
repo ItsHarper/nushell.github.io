@@ -23,7 +23,7 @@ contributors: false
 ## Flags
 
  -  `--regex, -r`: separator is a regular expression, matching values that can be coerced into a string
- -  `--split {string}`: Whether to split lists before, after, or on (default) the separator
+ -  `--split <string>`: Whether to split lists before, after, or on (default) the separator
 
 ## Parameters
 

@@ -29,7 +29,7 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Flags
 
- -  `--mask, -m {any}`: mask indicating insertions
+ -  `--mask, -m <any>`: mask indicating insertions
 
 ## Parameters
 

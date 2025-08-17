@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--table-name, -t {string}`: Specify table name to store the data in
+ -  `--table-name, -t <string>`: Specify table name to store the data in
 
 ## Parameters
 

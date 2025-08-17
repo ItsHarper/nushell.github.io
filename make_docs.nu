@@ -184,8 +184,8 @@ def command-doc [command] {
             if $param.parameter_type == 'switch' {
                 $'($start)($short_flag)($end)'
             } else if $param.parameter_type == 'named' {
-                $'($start)($short_flag) {($param.syntax_shape)}($end)'
-	    }
+                $'($start)($short_flag) <($param.syntax_shape)>($end)'
+	        }
         } | str join (char newline))
     }
 

@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--by, -b {int}`: Number of columns to roll
+ -  `--by, -b <int>`: Number of columns to roll
  -  `--cells-only, -c`: rotates columns leaving headers fixed
 
 

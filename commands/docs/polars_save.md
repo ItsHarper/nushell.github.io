@@ -29,9 +29,9 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Flags
 
- -  `--type, -t {string}`: File type: csv, json, parquet, arrow/ipc. If omitted, derive from file extension
- -  `--avro-compression {string}`: Compression for avro supports deflate or snappy
- -  `--csv-delimiter {string}`: file delimiter character
+ -  `--type, -t <string>`: File type: csv, json, parquet, arrow/ipc. If omitted, derive from file extension
+ -  `--avro-compression <string>`: Compression for avro supports deflate or snappy
+ -  `--csv-delimiter <string>`: file delimiter character
  -  `--csv-no-header`: Indicates to exclude a header row for CSV files.
 
 ## Parameters

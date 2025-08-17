@@ -29,7 +29,7 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Flags
 
- -  `--indices, -i {any}`: list of indices indicating where to set the value
+ -  `--indices, -i <any>`: list of indices indicating where to set the value
 
 ## Parameters
 

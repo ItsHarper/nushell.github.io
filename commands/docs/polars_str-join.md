@@ -29,7 +29,7 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Flags
 
- -  `--delimiter, -d {string}`: Delimiter to join strings within an expression. Other dataframe when used with a dataframe.
+ -  `--delimiter, -d <string>`: Delimiter to join strings within an expression. Other dataframe when used with a dataframe.
  -  `--ignore-nulls, -n`: Ignore null values. Only available when used as an expression.
 
 ## Parameters

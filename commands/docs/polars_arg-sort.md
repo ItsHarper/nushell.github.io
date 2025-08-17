@@ -31,7 +31,7 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
  -  `--reverse, -r`: reverse order
  -  `--nulls-last, -n`: nulls ordered last
- -  `--limit, -l {int}`: Limit a sort output, this is for optimization purposes and might be ignored.
+ -  `--limit, -l <int>`: Limit a sort output, this is for optimization purposes and might be ignored.
  -  `--maintain-order, -m`: maintain order on sorted items
 
 

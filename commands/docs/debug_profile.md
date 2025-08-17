@@ -27,7 +27,7 @@ contributors: false
  -  `--values, -v`: Collect pipeline element output values
  -  `--lines, -l`: Collect line numbers
  -  `--duration-values, -d`: Report instruction duration as duration values rather than milliseconds
- -  `--max-depth, -m {int}`: How many blocks/closures deep to step into (default 2)
+ -  `--max-depth, -m <int>`: How many blocks/closures deep to step into (default 2)
 
 ## Parameters
 

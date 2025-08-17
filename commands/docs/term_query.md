@@ -22,8 +22,8 @@ contributors: false
 
 ## Flags
 
- -  `--prefix, -p {oneof<binary, string>}`: Prefix sequence for the expected reply.
- -  `--terminator, -t {oneof<binary, string>}`: Terminator sequence for the expected reply.
+ -  `--prefix, -p <oneof<binary, string>>`: Prefix sequence for the expected reply.
+ -  `--terminator, -t <oneof<binary, string>>`: Terminator sequence for the expected reply.
  -  `--keep, -k`: Include prefix and terminator in the output.
 
 ## Parameters

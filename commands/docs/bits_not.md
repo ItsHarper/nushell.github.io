@@ -23,7 +23,7 @@ contributors: false
 ## Flags
 
  -  `--signed, -s`: always treat input number as a signed number
- -  `--number-bytes, -n {int}`: the size of unsigned number in bytes, it can be 1, 2, 4, 8, auto
+ -  `--number-bytes, -n <int>`: the size of unsigned number in bytes, it can be 1, 2, 4, 8, auto
 
 
 ## Input/output types:

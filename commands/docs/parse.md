@@ -23,7 +23,7 @@ contributors: false
 ## Flags
 
  -  `--regex, -r`: use full regex syntax for patterns
- -  `--backtrack, -b {int}`: set the max backtrack limit for regex
+ -  `--backtrack, -b <int>`: set the max backtrack limit for regex
 
 ## Parameters
 

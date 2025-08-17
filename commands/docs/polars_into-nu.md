@@ -29,7 +29,7 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Flags
 
- -  `--rows, -n {number}`: number of rows to be shown
+ -  `--rows, -n <number>`: number of rows to be shown
  -  `--tail, -t`: shows tail rows
  -  `--index, -i`: add an index column
 

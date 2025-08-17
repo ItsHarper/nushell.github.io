@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--plugin-config {path}`: Use a plugin registry file other than the one set in `$nu.plugin-path`
+ -  `--plugin-config <path>`: Use a plugin registry file other than the one set in `$nu.plugin-path`
  -  `--engine, -e`: Show info for plugins that are loaded into the engine only.
  -  `--registry, -r`: Show info for plugins from the registry file only.
 

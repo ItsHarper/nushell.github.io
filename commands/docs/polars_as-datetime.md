@@ -31,7 +31,7 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
  -  `--not-exact, -n`: the format string may be contained in the date (e.g. foo-2021-01-01-bar could match 2021-01-01)
  -  `--naive`: the input datetimes should be parsed as naive (i.e., not timezone-aware). Ignored if input is an expression.
- -  `--ambiguous, -a {oneof<string, nothing>}`: Determine how to deal with ambiguous datetimes:
+ -  `--ambiguous, -a <oneof<string, nothing>>`: Determine how to deal with ambiguous datetimes:
                     `raise` (default): raise error
                     `earliest`: use the earliest datetime
                     `latest`: use the latest datetime

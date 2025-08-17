@@ -22,8 +22,8 @@ contributors: false
 
 ## Flags
 
- -  `--column, -c {record}`: column name to be changed
- -  `--block, -b {closure(any)}`: A closure to apply changes on each column
+ -  `--column, -c <record>`: column name to be changed
+ -  `--block, -b <closure(any)>`: A closure to apply changes on each column
 
 ## Parameters
 

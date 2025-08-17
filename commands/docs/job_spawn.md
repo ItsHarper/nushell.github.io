@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--tag, -t {string}`: An optional description tag for this job
+ -  `--tag, -t <string>`: An optional description tag for this job
 
 ## Parameters
 

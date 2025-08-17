@@ -29,7 +29,7 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Flags
 
- -  `--schema, -s {any}`: Polars Schema in format [{name: str}].
+ -  `--schema, -s <any>`: Polars Schema in format [{name: str}].
  -  `--as-columns, -c`: When input shape is record of lists, treat each list as column values.
 
 

@@ -29,10 +29,10 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Flags
 
- -  `--column, -c {string}`: Provide a custom name for the count column
+ -  `--column, -c <string>`: Provide a custom name for the count column
  -  `--sort, -s`: Whether or not values should be sorted
  -  `--parallel, -p`: Use multiple threads when processing
- -  `--normalize, -n {string}`: Normalize the counts
+ -  `--normalize, -n <string>`: Normalize the counts
 
 
 ## Input/output types:

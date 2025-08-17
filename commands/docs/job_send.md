@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--tag {int}`: A tag for the message
+ -  `--tag <int>`: A tag for the message
 
 ## Parameters
 

@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--buffer-size, -b {int}`: Number of items to buffer from the streams. Increases memory usage, but can help performance when lots of output is produced.
+ -  `--buffer-size, -b <int>`: Number of items to buffer from the streams. Increases memory usage, but can help performance when lots of output is produced.
 
 ## Parameters
 

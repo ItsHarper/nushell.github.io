@@ -22,8 +22,8 @@ contributors: false
 
 ## Flags
 
- -  `--tag {int}`: A tag for the message
- -  `--timeout {duration}`: The maximum time duration to wait for.
+ -  `--tag <int>`: A tag for the message
+ -  `--timeout <duration>`: The maximum time duration to wait for.
 
 
 ## Input/output types:

@@ -23,7 +23,7 @@ contributors: false
 ## Flags
 
  -  `--group-digits, -g`: group digits together by the locale specific thousands separator
- -  `--decimals, -d {int}`: decimal digits to which to round
+ -  `--decimals, -d <int>`: decimal digits to which to round
 
 ## Parameters
 

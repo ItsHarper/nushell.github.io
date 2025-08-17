@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--index, -i {int}`: index to insert binary data
+ -  `--index, -i <int>`: index to insert binary data
  -  `--end, -e`: add to the end of binary
 
 ## Parameters

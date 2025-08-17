@@ -23,7 +23,7 @@ contributors: false
 ## Flags
 
  -  `--keep-custom, -k`: Keep all newly added commands and aliases in the next activated overlay.
- -  `--keep-env, -e {list<string>}`: List of environment variables to keep in the next activated overlay
+ -  `--keep-env, -e <list<string>>`: List of environment variables to keep in the next activated overlay
 
 ## Parameters
 

@@ -29,10 +29,10 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Flags
 
- -  `--query, -q {string}`: selector query
+ -  `--query, -q <string>`: selector query
  -  `--as-html, -m`: return the query output as html
- -  `--attribute, -a {any}`: downselect based on the given attribute
- -  `--as-table, -t {list<string>}`: find table based on column header list
+ -  `--attribute, -a <any>`: downselect based on the given attribute
+ -  `--as-table, -t <list<string>>`: find table based on column header list
  -  `--inspect, -i`: run in inspect mode to provide more information for determining column headers
 
 ## Examples

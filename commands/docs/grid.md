@@ -22,10 +22,10 @@ contributors: false
 
 ## Flags
 
- -  `--width, -w {int}`: number of terminal columns wide (not output columns)
+ -  `--width, -w <int>`: number of terminal columns wide (not output columns)
  -  `--color, -c`: draw output with color
  -  `--icons, -i`: draw output with icons (assumes nerd font is used)
- -  `--separator, -s {string}`: character to separate grid with
+ -  `--separator, -s <string>`: character to separate grid with
 
 
 ## Input/output types:

@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--file-name, -f {string}`: file name to export the sqlite in-memory database to
+ -  `--file-name, -f <string>`: file name to export the sqlite in-memory database to
 
 
 ## Input/output types:

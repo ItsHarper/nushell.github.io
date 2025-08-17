@@ -24,7 +24,7 @@ contributors: false
 
  -  `--grapheme-clusters, -g`: count indexes using grapheme clusters (all visible chars have length 1)
  -  `--utf-8-bytes, -b`: count indexes using UTF-8 bytes (default; non-ASCII chars have length 2+)
- -  `--range, -r {range}`: optional start and/or end index
+ -  `--range, -r <range>`: optional start and/or end index
  -  `--end, -e`: search from the end of the input
 
 ## Parameters

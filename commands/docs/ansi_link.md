@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--text, -t {string}`: Link text. Uses uri as text if absent. In case of
+ -  `--text, -t <string>`: Link text. Uses uri as text if absent. In case of
                 tables, records and lists applies this text to all elements
 
 ## Parameters

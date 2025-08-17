@@ -23,7 +23,7 @@ contributors: false
 ## Flags
 
  -  `--noheaders, -n`: do not output the column names as the first row
- -  `--columns {list<string>}`: the names (in order) of the columns to use
+ -  `--columns <list<string>>`: the names (in order) of the columns to use
 
 
 ## Input/output types:

@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--find, -f {string}`: string to find in command names, descriptions, and search terms
+ -  `--find, -f <string>`: string to find in command names, descriptions, and search terms
 
 ## Parameters
 

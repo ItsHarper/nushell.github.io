@@ -29,7 +29,7 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Flags
 
- -  `--quantiles, -q {list<float>}`: provide optional quantiles
+ -  `--quantiles, -q <list<float>>`: provide optional quantiles
 
 
 ## Input/output types:

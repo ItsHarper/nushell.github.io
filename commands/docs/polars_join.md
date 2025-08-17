@@ -34,7 +34,7 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
  -  `--full, -f`: full join between lazyframes
  -  `--cross, -c`: cross join between lazyframes
  -  `--coalesce-columns`: Sets the join coalesce strategy to colesce columns. Most useful when used with --full, which will not otherwise coalesce.
- -  `--suffix, -s {string}`: Suffix to use on columns with same name
+ -  `--suffix, -s <string>`: Suffix to use on columns with same name
 
 ## Parameters
 

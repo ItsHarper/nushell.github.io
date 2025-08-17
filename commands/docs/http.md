@@ -22,16 +22,16 @@ contributors: false
 
 ## Flags
 
- -  `--content-type, -t {any}`: the MIME type of content to post
- -  `--user, -u {any}`: the username when authenticating
- -  `--password, -p {any}`: the password when authenticating
- -  `--max-time, -m {duration}`: max duration before timeout occurs
- -  `--headers, -H {any}`: custom headers you want to add
+ -  `--content-type, -t <any>`: the MIME type of content to post
+ -  `--user, -u <any>`: the username when authenticating
+ -  `--password, -p <any>`: the password when authenticating
+ -  `--max-time, -m <duration>`: max duration before timeout occurs
+ -  `--headers, -H <any>`: custom headers you want to add
  -  `--raw, -r`: fetch contents as text rather than a table
  -  `--insecure, -k`: allow insecure server connections when using SSL
  -  `--full, -f`: returns the full response instead of only the body
  -  `--allow-errors, -e`: do not fail if the server returns an error code
- -  `--redirect-mode, -R {string}`: What to do when encountering redirects. Default: 'follow'. Valid options: 'follow' ('f'), 'manual' ('m'), 'error' ('e').
+ -  `--redirect-mode, -R <string>`: What to do when encountering redirects. Default: 'follow'. Valid options: 'follow' ('f'), 'manual' ('m'), 'error' ('e').
 
 ## Parameters
 

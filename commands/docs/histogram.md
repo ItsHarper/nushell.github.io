@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--percentage-type, -t {string}`: percentage calculate method, can be 'normalize' or 'relative', in 'normalize', defaults to be 'normalize'
+ -  `--percentage-type, -t <string>`: percentage calculate method, can be 'normalize' or 'relative', in 'normalize', defaults to be 'normalize'
 
 ## Parameters
 

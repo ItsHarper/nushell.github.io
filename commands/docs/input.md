@@ -22,12 +22,12 @@ contributors: false
 
 ## Flags
 
- -  `--bytes-until-any, -u {string}`: read bytes (not text) until any of the given stop bytes is seen
- -  `--numchar, -n {int}`: number of characters to read; suppresses output
- -  `--default, -d {string}`: default value if no input is provided
+ -  `--bytes-until-any, -u <string>`: read bytes (not text) until any of the given stop bytes is seen
+ -  `--numchar, -n <int>`: number of characters to read; suppresses output
+ -  `--default, -d <string>`: default value if no input is provided
  -  `--reedline`: use the reedline library, defaults to false
- -  `--history-file {path}`: Path to a file to read and write command history. This is a text file and will be created if it doesn't exist. Will be used as the selection list.
- -  `--max-history {int}`: The maximum number of entries to keep in the history, defaults to $env.config.history.max_size.
+ -  `--history-file <path>`: Path to a file to read and write command history. This is a text file and will be created if it doesn't exist. Will be used as the selection list.
+ -  `--max-history <int>`: The maximum number of entries to keep in the history, defaults to $env.config.history.max_size.
  -  `--suppress-output, -s`: don't print keystroke values
 
 ## Parameters

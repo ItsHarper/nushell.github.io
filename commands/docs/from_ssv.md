@@ -24,7 +24,7 @@ contributors: false
 
  -  `--noheaders, -n`: don't treat the first row as column names
  -  `--aligned-columns, -a`: assume columns are aligned
- -  `--minimum-spaces, -m {int}`: the minimum spaces to separate columns
+ -  `--minimum-spaces, -m <int>`: the minimum spaces to separate columns
 
 
 ## Input/output types:

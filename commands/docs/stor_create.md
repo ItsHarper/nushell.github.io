@@ -22,8 +22,8 @@ contributors: false
 
 ## Flags
 
- -  `--table-name, -t {string}`: name of the table you want to create
- -  `--columns, -c {record}`: a record of column names and datatypes
+ -  `--table-name, -t <string>`: name of the table you want to create
+ -  `--columns, -c <record>`: a record of column names and datatypes
 
 
 ## Input/output types:

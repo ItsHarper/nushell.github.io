@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--params, -p {any}`: List of parameters for the SQL statement
+ -  `--params, -p <any>`: List of parameters for the SQL statement
 
 ## Parameters
 

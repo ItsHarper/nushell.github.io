@@ -29,7 +29,7 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Flags
 
- -  `--reverse, -r {list<bool>}`: Reverse sorting. Default is false
+ -  `--reverse, -r <list<bool>>`: Reverse sorting. Default is false
  -  `--nulls-last, -n`: nulls are shown last in the dataframe
  -  `--maintain-order, -m`: Maintains order during sort
 

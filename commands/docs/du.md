@@ -24,9 +24,9 @@ contributors: false
 
  -  `--deref, -r`: Dereference symlinks to their targets for size
  -  `--long, -l`: Get underlying directories and files for each entry
- -  `--exclude, -x {glob}`: Exclude these file names
- -  `--max-depth, -d {int}`: Directory recursion limit
- -  `--min-size, -m {int}`: Exclude files below this size
+ -  `--exclude, -x <glob>`: Exclude these file names
+ -  `--max-depth, -d <int>`: Directory recursion limit
+ -  `--min-size, -m <int>`: Exclude files below this size
 
 ## Parameters
 

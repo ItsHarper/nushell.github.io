@@ -29,7 +29,7 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Flags
 
- -  `--preview-body, -b {int}`: How many bytes of the body to preview
+ -  `--preview-body, -b <int>`: How many bytes of the body to preview
 
 
 ## Input/output types:

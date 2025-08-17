@@ -29,7 +29,7 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Flags
 
- -  `--fill, -f {any}`: Expression used to fill the null values (lazy df)
+ -  `--fill, -f <any>`: Expression used to fill the null values (lazy df)
 
 ## Parameters
 

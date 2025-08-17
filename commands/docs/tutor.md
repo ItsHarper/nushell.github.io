@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--find, -f {string}`: Search tutorial for a phrase
+ -  `--find, -f <string>`: Search tutorial for a phrase
 
 ## Parameters
 

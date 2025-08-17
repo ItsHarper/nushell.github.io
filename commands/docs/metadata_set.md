@@ -23,8 +23,8 @@ contributors: false
 ## Flags
 
  -  `--datasource-ls, -l`: Assign the DataSource::Ls metadata to the input
- -  `--datasource-filepath, -f {path}`: Assign the DataSource::FilePath metadata to the input
- -  `--content-type, -c {string}`: Assign content type metadata to the input
+ -  `--datasource-filepath, -f <path>`: Assign the DataSource::FilePath metadata to the input
+ -  `--content-type, -c <string>`: Assign content type metadata to the input
 
 
 ## Input/output types:

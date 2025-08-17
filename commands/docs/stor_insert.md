@@ -22,8 +22,8 @@ contributors: false
 
 ## Flags
 
- -  `--table-name, -t {string}`: name of the table you want to insert into
- -  `--data-record, -d {record}`: a record of column names and column values to insert into the specified table
+ -  `--table-name, -t <string>`: name of the table you want to insert into
+ -  `--data-record, -d <record>`: a record of column names and column values to insert into the specified table
 
 
 ## Input/output types:

@@ -29,7 +29,7 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Flags
 
- -  `--labels, -l {list<string>}`: Names of the categories. The number of labels must be equal to the number of cut points plus one.
+ -  `--labels, -l <list<string>>`: Names of the categories. The number of labels must be equal to the number of cut points plus one.
  -  `--left_closed, -c`: Set the intervals to be left-closed instead of right-closed.
  -  `--include_breaks, -b`: Include a column with the right endpoint of the bin each observation falls in. This will change the data type of the output from a Categorical to a Struct.
  -  `--allow_duplicates, -d`: If set, duplicates in the resulting quantiles are dropped, rather than raising an error. This can happen even with unique probabilities, depending on the data.

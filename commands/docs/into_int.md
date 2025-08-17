@@ -22,8 +22,8 @@ contributors: false
 
 ## Flags
 
- -  `--radix, -r {number}`: radix of integer
- -  `--endian, -e {string}`: byte encode endian, available options: native(default), little, big
+ -  `--radix, -r <number>`: radix of integer
+ -  `--endian, -e <string>`: byte encode endian, available options: native(default), little, big
  -  `--signed, -s`: always treat input number as a signed number
 
 ## Parameters

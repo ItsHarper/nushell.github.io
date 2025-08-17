@@ -22,9 +22,9 @@ contributors: false
 
 ## Flags
 
- -  `--timezone, -z {string}`: Specify timezone if the input is a Unix timestamp. Valid options: 'UTC' ('u') or 'LOCAL' ('l')
- -  `--offset, -o {int}`: Specify timezone by offset from UTC if the input is a Unix timestamp, like '+8', '-4'
- -  `--format, -f {string}`: Specify expected format of INPUT string to parse to datetime. Use --list to see options
+ -  `--timezone, -z <string>`: Specify timezone if the input is a Unix timestamp. Valid options: 'UTC' ('u') or 'LOCAL' ('l')
+ -  `--offset, -o <int>`: Specify timezone by offset from UTC if the input is a Unix timestamp, like '+8', '-4'
+ -  `--format, -f <string>`: Specify expected format of INPUT string to parse to datetime. Use --list to see options
  -  `--list, -l`: Show all possible variables for use in --format flag
 
 ## Parameters

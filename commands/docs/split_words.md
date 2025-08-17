@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--min-word-length, -l {int}`: The minimum word length
+ -  `--min-word-length, -l <int>`: The minimum word length
  -  `--grapheme-clusters, -g`: measure word length in grapheme clusters (requires -l)
  -  `--utf-8-bytes, -b`: measure word length in UTF-8 bytes (default; requires -l; non-ASCII chars are length 2+)
 

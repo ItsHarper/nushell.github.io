@@ -29,12 +29,12 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Flags
 
- -  `--ambiguous, -a {oneof<string, nothing>}`: Determine how to deal with ambiguous datetimes:
+ -  `--ambiguous, -a <oneof<string, nothing>>`: Determine how to deal with ambiguous datetimes:
                     `raise` (default): raise error
                     `earliest`: use the earliest datetime
                     `latest`: use the latest datetime
                     `null`: set to null
- -  `--nonexistent, -n {oneof<string, nothing>}`: Determine how to deal with non-existent datetimes: raise (default) or null.
+ -  `--nonexistent, -n <oneof<string, nothing>>`: Determine how to deal with non-existent datetimes: raise (default) or null.
 
 ## Parameters
 

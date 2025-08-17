@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--indent, -i {int}`: Formats the XML text with the provided indentation setting
+ -  `--indent, -i <int>`: Formats the XML text with the provided indentation setting
  -  `--partial-escape, -p`: Only escape mandatory characters in text and attributes
  -  `--self-closed, -s`: Output empty tags as self closing
 

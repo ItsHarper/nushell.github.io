@@ -22,12 +22,12 @@ contributors: false
 
 ## Flags
 
- -  `--depth, -d {int}`: directory depth to search
+ -  `--depth, -d <int>`: directory depth to search
  -  `--no-dir, -D`: Whether to filter out directories from the returned paths
  -  `--no-file, -F`: Whether to filter out files from the returned paths
  -  `--no-symlink, -S`: Whether to filter out symlinks from the returned paths
  -  `--follow-symlinks, -l`: Whether to follow symbolic links to their targets
- -  `--exclude, -e {list<string>}`: Patterns to exclude from the search: `glob` will not walk the inside of directories matching the excluded patterns.
+ -  `--exclude, -e <list<string>>`: Patterns to exclude from the search: `glob` will not walk the inside of directories matching the excluded patterns.
 
 ## Parameters
 

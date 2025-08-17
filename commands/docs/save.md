@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--stderr, -e {path}`: the filename used to save stderr, only works with `-r` flag
+ -  `--stderr, -e <path>`: the filename used to save stderr, only works with `-r` flag
  -  `--raw, -r`: save file as raw binary
  -  `--append, -a`: append input to the end of the file
  -  `--force, -f`: overwrite the destination

@@ -22,8 +22,8 @@ contributors: false
 
 ## Flags
 
- -  `--dice, -d {int}`: The amount of dice being rolled
- -  `--sides, -s {int}`: The amount of sides a die has
+ -  `--dice, -d <int>`: The amount of dice being rolled
+ -  `--sides, -s <int>`: The amount of sides a die has
 
 
 ## Input/output types:

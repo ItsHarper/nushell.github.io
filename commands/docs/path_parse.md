@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--extension, -e {string}`: Manually supply the extension (without the dot)
+ -  `--extension, -e <string>`: Manually supply the extension (without the dot)
 
 
 ## Input/output types:

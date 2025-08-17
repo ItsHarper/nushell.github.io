@@ -29,8 +29,8 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Flags
 
- -  `--pattern, -p {string}`: Regex pattern to be matched
- -  `--replace, -r {string}`: replacing string
+ -  `--pattern, -p <string>`: Regex pattern to be matched
+ -  `--replace, -r <string>`: replacing string
 
 
 ## Input/output types:

@@ -22,8 +22,8 @@ contributors: false
 
 ## Flags
 
- -  `--suffix {string}`: Append suffix to template; must not contain a slash.
- -  `--tmpdir-path, -p {path}`: Interpret TEMPLATE relative to tmpdir-path. If tmpdir-path is not set use $TMPDIR
+ -  `--suffix <string>`: Append suffix to template; must not contain a slash.
+ -  `--tmpdir-path, -p <path>`: Interpret TEMPLATE relative to tmpdir-path. If tmpdir-path is not set use $TMPDIR
  -  `--tmpdir, -t`: Interpret TEMPLATE relative to the system temporary directory.
  -  `--directory, -d`: Create a directory instead of a file.
 

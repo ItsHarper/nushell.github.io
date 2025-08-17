@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--char, -c {string}`: character to trim (default: whitespace)
+ -  `--char, -c <string>`: character to trim (default: whitespace)
  -  `--left, -l`: trims characters only from the beginning of the string
  -  `--right, -r`: trims characters only from the end of the string
 

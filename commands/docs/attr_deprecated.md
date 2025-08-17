@@ -22,10 +22,10 @@ contributors: false
 
 ## Flags
 
- -  `--flag {string}`: Mark a flag as deprecated rather than the command
- -  `--since, -s {string}`: Denote a version when this item was deprecated
- -  `--remove, -r {string}`: Denote a version when this item will be removed
- -  `--report {string}`: How to warn about this item. One of: first (default), every
+ -  `--flag <string>`: Mark a flag as deprecated rather than the command
+ -  `--since, -s <string>`: Denote a version when this item was deprecated
+ -  `--remove, -r <string>`: Denote a version when this item will be removed
+ -  `--report <string>`: How to warn about this item. One of: first (default), every
 
 ## Parameters
 

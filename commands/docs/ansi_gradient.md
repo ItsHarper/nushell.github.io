@@ -22,10 +22,10 @@ contributors: false
 
 ## Flags
 
- -  `--fgstart, -a {string}`: foreground gradient start color in hex (0x123456)
- -  `--fgend, -b {string}`: foreground gradient end color in hex
- -  `--bgstart, -c {string}`: background gradient start color in hex
- -  `--bgend, -d {string}`: background gradient end color in hex
+ -  `--fgstart, -a <string>`: foreground gradient start color in hex (0x123456)
+ -  `--fgend, -b <string>`: foreground gradient end color in hex
+ -  `--bgstart, -c <string>`: background gradient start color in hex
+ -  `--bgend, -d <string>`: background gradient end color in hex
 
 ## Parameters
 

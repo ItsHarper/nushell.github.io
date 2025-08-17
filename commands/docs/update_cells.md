@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--columns, -c {list<any>}`: list of columns to update
+ -  `--columns, -c <list<any>>`: list of columns to update
 
 ## Parameters
 

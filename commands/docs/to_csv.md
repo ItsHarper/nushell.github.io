@@ -22,9 +22,9 @@ contributors: false
 
 ## Flags
 
- -  `--separator, -s {string}`: a character to separate columns, defaults to ','
+ -  `--separator, -s <string>`: a character to separate columns, defaults to ','
  -  `--noheaders, -n`: do not output the columns names as the first row
- -  `--columns {list<string>}`: the names (in order) of the columns to use
+ -  `--columns <list<string>>`: the names (in order) of the columns to use
 
 
 ## Input/output types:

@@ -24,7 +24,7 @@ contributors: false
 
  -  `--force, -f`: forcefully kill the process
  -  `--quiet, -q`: won't print anything to the console
- -  `--signal, -s {int}`: signal decimal number to be sent instead of the default 15 (unsupported on Windows)
+ -  `--signal, -s <int>`: signal decimal number to be sent instead of the default 15 (unsupported on Windows)
 
 ## Parameters
 

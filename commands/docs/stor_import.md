@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--file-name, -f {string}`: file name to import the sqlite in-memory database from
+ -  `--file-name, -f <string>`: file name to import the sqlite in-memory database from
 
 
 ## Input/output types:

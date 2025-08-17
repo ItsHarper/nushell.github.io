@@ -22,9 +22,9 @@ contributors: false
 
 ## Flags
 
- -  `--reference, -r {path}`: Use the access and modification times of the reference file/directory instead of the current time
- -  `--timestamp, -t {datetime}`: Use the given timestamp instead of the current time
- -  `--date, -d {string}`: Use the given time instead of the current time. This can be a full timestamp or it can be relative to either the current time or reference file time (if given). For more information, see https://www.gnu.org/software/coreutils/manual/html_node/touch-invocation.html
+ -  `--reference, -r <path>`: Use the access and modification times of the reference file/directory instead of the current time
+ -  `--timestamp, -t <datetime>`: Use the given timestamp instead of the current time
+ -  `--date, -d <string>`: Use the given time instead of the current time. This can be a full timestamp or it can be relative to either the current time or reference file time (if given). For more information, see https://www.gnu.org/software/coreutils/manual/html_node/touch-invocation.html
  -  `--modified, -m`: Change only the modification time (if used with -a, access time is changed too)
  -  `--access, -a`: Change only the access time (if used with -m, modification time is changed too)
  -  `--no-create, -c`: Don't create the file if it doesn't exist

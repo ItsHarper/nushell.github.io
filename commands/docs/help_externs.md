@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--find, -f {string}`: string to find in extern names and descriptions
+ -  `--find, -f <string>`: string to find in extern names and descriptions
 
 ## Parameters
 

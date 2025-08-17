@@ -22,7 +22,7 @@ contributors: false
 
 ## Flags
 
- -  `--strategy, -s {string}`: The list merging strategy to use. One of: table (default), overwrite, append, prepend
+ -  `--strategy, -s <string>`: The list merging strategy to use. One of: table (default), overwrite, append, prepend
 
 ## Parameters
 

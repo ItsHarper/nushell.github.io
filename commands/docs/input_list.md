@@ -25,7 +25,7 @@ contributors: false
  -  `--multi, -m`: Use multiple results, you can press a to toggle all options on/off
  -  `--fuzzy, -f`: Use a fuzzy select.
  -  `--index, -i`: Returns list indexes.
- -  `--display, -d {cell-path}`: Field to use as display value
+ -  `--display, -d <cell-path>`: Field to use as display value
 
 ## Parameters
 
