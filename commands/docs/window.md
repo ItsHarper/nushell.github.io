@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> window {flags} (window_size)```
+```> window {flags} <window_size>```
 
 ## Flags
 

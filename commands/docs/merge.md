@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> merge {flags} (value)```
+```> merge {flags} <value>```
 
 ## Parameters
 

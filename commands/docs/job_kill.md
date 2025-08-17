@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> job kill {flags} (id)```
+```> job kill {flags} <id>```
 
 ## Parameters
 

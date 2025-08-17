@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> bytes add {flags} (data) ...rest```
+```> bytes add {flags} <data> ...rest```
 
 ## Flags
 

@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> split column {flags} (separator) ...rest```
+```> split column {flags} <separator> ...rest```
 
 ## Flags
 

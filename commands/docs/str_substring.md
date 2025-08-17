@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> str substring {flags} (range) ...rest```
+```> str substring {flags} <range> ...rest```
 
 ## Flags
 

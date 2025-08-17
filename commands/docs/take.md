@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> take {flags} (n)```
+```> take {flags} <n>```
 
 ## Parameters
 

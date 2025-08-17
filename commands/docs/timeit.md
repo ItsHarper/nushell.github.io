@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> timeit {flags} (command)```
+```> timeit {flags} <command>```
 
 ## Parameters
 

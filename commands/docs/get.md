@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> get {flags} (cell_path) ...rest```
+```> get {flags} <cell_path> ...rest```
 
 ## Flags
 

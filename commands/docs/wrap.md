@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> wrap {flags} (name)```
+```> wrap {flags} <name>```
 
 ## Parameters
 

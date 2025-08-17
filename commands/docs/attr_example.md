@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> attr example {flags} (description) (example)```
+```> attr example {flags} <description> <example>```
 
 ## Flags
 

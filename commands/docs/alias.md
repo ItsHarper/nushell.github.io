@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> alias {flags} (name) (initial_value)```
+```> alias {flags} <name> <initial_value>```
 
 ## Parameters
 

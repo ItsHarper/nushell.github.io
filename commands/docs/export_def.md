@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> export def {flags} (def_name) (params) (block)```
+```> export def {flags} <def_name> <params> <block>```
 
 ## Flags
 

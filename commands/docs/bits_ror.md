@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> bits ror {flags} (bits)```
+```> bits ror {flags} <bits>```
 
 ## Flags
 

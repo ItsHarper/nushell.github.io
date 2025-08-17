@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> term query {flags} (query)```
+```> term query {flags} <query>```
 
 ## Flags
 

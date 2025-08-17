@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> bytes replace {flags} (find) (replace) ...rest```
+```> bytes replace {flags} <find> <replace> ...rest```
 
 ## Flags
 

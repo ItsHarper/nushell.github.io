@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> math log {flags} (base)```
+```> math log {flags} <base>```
 
 ## Parameters
 

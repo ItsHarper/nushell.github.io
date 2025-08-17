@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> update {flags} (field) (replacement value)```
+```> update {flags} <field> <replacement value>```
 
 ## Parameters
 

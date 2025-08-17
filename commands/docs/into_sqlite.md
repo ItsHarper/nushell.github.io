@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> into sqlite {flags} (file-name)```
+```> into sqlite {flags} <file-name>```
 
 ## Flags
 

@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> date to-timezone {flags} (time zone)```
+```> date to-timezone {flags} <time zone>```
 
 ## Parameters
 

@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> take until {flags} (predicate)```
+```> take until {flags} <predicate>```
 
 ## Parameters
 

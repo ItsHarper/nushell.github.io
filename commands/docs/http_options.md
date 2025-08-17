@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> http options {flags} (URL)```
+```> http options {flags} <URL>```
 
 ## Flags
 

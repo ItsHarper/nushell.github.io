@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> job send {flags} (id)```
+```> job send {flags} <id>```
 
 ## Flags
 

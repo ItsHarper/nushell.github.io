@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> chunk-by {flags} (closure)```
+```> chunk-by {flags} <closure>```
 
 ## Parameters
 

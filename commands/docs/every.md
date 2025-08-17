@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> every {flags} (stride)```
+```> every {flags} <stride>```
 
 ## Flags
 

@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> explain {flags} (closure)```
+```> explain {flags} <closure>```
 
 ## Parameters
 

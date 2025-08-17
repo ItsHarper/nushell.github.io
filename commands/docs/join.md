@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> join {flags} (right-table) (left-on) (right-on)```
+```> join {flags} <right-table> <left-on> (right-on)```
 
 ## Flags
 

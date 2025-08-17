@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> export module {flags} (module) (block)```
+```> export module {flags} <module> (block)```
 
 ## Parameters
 

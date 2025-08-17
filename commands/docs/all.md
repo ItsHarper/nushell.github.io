@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> all {flags} (predicate)```
+```> all {flags} <predicate>```
 
 ## Parameters
 

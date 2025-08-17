@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> view source {flags} (item)```
+```> view source {flags} <item>```
 
 ## Parameters
 

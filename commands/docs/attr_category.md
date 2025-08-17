@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> attr category {flags} (category)```
+```> attr category {flags} <category>```
 
 ## Parameters
 

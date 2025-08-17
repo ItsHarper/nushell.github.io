@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> if {flags} (cond) (then_block) (else_expression)```
+```> if {flags} <cond> <then_block> (else_expression)```
 
 ## Parameters
 

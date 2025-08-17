@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> view ir {flags} (target)```
+```> view ir {flags} <target>```
 
 ## Flags
 

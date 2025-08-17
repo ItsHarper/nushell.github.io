@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> save {flags} (filename)```
+```> save {flags} <filename>```
 
 ## Flags
 

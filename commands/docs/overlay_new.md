@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> overlay new {flags} (name)```
+```> overlay new {flags} <name>```
 
 ## Flags
 

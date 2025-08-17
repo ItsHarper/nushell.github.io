@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> str replace {flags} (find) (replace) ...rest```
+```> str replace {flags} <find> <replace> ...rest```
 
 ## Flags
 

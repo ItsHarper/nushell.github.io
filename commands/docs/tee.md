@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> tee {flags} (closure)```
+```> tee {flags} <closure>```
 
 ## Flags
 

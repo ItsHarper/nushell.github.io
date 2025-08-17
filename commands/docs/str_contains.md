@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> str contains {flags} (string) ...rest```
+```> str contains {flags} <string> ...rest```
 
 ## Flags
 

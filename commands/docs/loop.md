@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> loop {flags} (block)```
+```> loop {flags} <block>```
 
 ## Parameters
 

@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> with-env {flags} (variable) (block)```
+```> with-env {flags} <variable> <block>```
 
 ## Parameters
 

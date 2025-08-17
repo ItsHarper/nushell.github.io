@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> start {flags} (path)```
+```> start {flags} <path>```
 
 ## Parameters
 

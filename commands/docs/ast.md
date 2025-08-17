@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> ast {flags} (pipeline)```
+```> ast {flags} <pipeline>```
 
 ## Flags
 

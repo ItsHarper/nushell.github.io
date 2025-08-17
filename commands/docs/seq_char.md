@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> seq char {flags} (start) (end)```
+```> seq char {flags} <start> <end>```
 
 ## Parameters
 

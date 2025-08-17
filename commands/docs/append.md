@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> append {flags} (row)```
+```> append {flags} <row>```
 
 ## Parameters
 

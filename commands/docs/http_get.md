@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> http get {flags} (URL)```
+```> http get {flags} <URL>```
 
 ## Flags
 

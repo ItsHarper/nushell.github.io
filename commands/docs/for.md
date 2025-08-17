@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> for {flags} (var_name) (range) (block)```
+```> for {flags} <var_name> <range> <block>```
 
 ## Parameters
 

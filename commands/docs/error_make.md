@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> error make {flags} (error_struct)```
+```> error make {flags} <error_struct>```
 
 ## Flags
 

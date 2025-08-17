@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> chunks {flags} (chunk_size)```
+```> chunks {flags} <chunk_size>```
 
 ## Parameters
 

@@ -25,7 +25,7 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Signature
 
-```> polars col {flags} (column name) ...rest```
+```> polars col {flags} <column name> ...rest```
 
 ## Flags
 

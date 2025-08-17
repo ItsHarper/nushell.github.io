@@ -25,7 +25,7 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Signature
 
-```> polars filter-with {flags} (mask or expression)```
+```> polars filter-with {flags} <mask or expression>```
 
 ## Parameters
 

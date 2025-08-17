@@ -25,7 +25,7 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Signature
 
-```> polars replace-time-zone {flags} (time_zone)```
+```> polars replace-time-zone {flags} <time_zone>```
 
 ## Flags
 

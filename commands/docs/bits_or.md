@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> bits or {flags} (target)```
+```> bits or {flags} <target>```
 
 ## Flags
 

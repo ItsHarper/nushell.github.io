@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> use {flags} (module) ...rest```
+```> use {flags} <module> ...rest```
 
 ## Parameters
 

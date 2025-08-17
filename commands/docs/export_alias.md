@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> export alias {flags} (name) (initial_value)```
+```> export alias {flags} <name> <initial_value>```
 
 ## Parameters
 

@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> glob {flags} (glob)```
+```> glob {flags} <glob>```
 
 ## Flags
 

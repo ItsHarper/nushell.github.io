@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> try {flags} (try_block) (catch_closure)```
+```> try {flags} <try_block> (catch_closure)```
 
 ## Parameters
 

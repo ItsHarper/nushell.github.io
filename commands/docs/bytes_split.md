@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> bytes split {flags} (separator)```
+```> bytes split {flags} <separator>```
 
 ## Parameters
 

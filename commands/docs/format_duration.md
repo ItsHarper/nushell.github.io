@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> format duration {flags} (format value) ...rest```
+```> format duration {flags} <format value> ...rest```
 
 ## Parameters
 

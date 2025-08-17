@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> prepend {flags} (row)```
+```> prepend {flags} <row>```
 
 ## Parameters
 

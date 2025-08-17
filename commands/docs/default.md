@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> default {flags} (default value) ...rest```
+```> default {flags} <default value> ...rest```
 
 ## Flags
 

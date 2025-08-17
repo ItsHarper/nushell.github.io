@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> plugin stop {flags} (name)```
+```> plugin stop {flags} <name>```
 
 ## Parameters
 

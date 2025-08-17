@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> upsert {flags} (field) (replacement value)```
+```> upsert {flags} <field> <replacement value>```
 
 ## Parameters
 

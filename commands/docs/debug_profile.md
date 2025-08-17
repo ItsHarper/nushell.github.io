@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> debug profile {flags} (closure)```
+```> debug profile {flags} <closure>```
 
 ## Flags
 

@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> export extern {flags} (def_name) (params)```
+```> export extern {flags} <def_name> <params>```
 
 ## Parameters
 

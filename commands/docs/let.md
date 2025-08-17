@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> let {flags} (var_name) (initial_value)```
+```> let {flags} <var_name> <initial_value>```
 
 ## Parameters
 

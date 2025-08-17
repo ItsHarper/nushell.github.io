@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> while {flags} (cond) (block)```
+```> while {flags} <cond> <block>```
 
 ## Parameters
 

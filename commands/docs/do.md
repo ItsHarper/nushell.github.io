@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> do {flags} (closure) ...rest```
+```> do {flags} <closure> ...rest```
 
 ## Flags
 

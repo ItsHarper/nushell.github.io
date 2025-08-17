@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> str starts-with {flags} (string) ...rest```
+```> str starts-with {flags} <string> ...rest```
 
 ## Flags
 

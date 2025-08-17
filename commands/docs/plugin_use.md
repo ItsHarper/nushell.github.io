@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> plugin use {flags} (name)```
+```> plugin use {flags} <name>```
 
 ## Flags
 

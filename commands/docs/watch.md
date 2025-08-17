@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> watch {flags} (path) (closure)```
+```> watch {flags} <path> <closure>```
 
 ## Flags
 

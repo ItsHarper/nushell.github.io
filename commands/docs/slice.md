@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> slice {flags} (rows)```
+```> slice {flags} <rows>```
 
 ## Parameters
 

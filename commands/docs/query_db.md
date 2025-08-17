@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> query db {flags} (SQL)```
+```> query db {flags} <SQL>```
 
 ## Flags
 

@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> export const {flags} (const_name) (initial_value)```
+```> export const {flags} <const_name> <initial_value>```
 
 ## Parameters
 

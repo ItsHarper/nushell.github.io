@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> http patch {flags} (URL) (data)```
+```> http patch {flags} <URL> (data)```
 
 ## Flags
 

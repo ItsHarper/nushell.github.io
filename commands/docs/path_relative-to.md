@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> path relative-to {flags} (path)```
+```> path relative-to {flags} <path>```
 
 ## Parameters
 

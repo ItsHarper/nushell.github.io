@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> metadata access {flags} (closure)```
+```> metadata access {flags} <closure>```
 
 ## Parameters
 

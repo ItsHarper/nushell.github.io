@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> commandline edit {flags} (str)```
+```> commandline edit {flags} <str>```
 
 ## Flags
 

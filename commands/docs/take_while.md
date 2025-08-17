@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> take while {flags} (predicate)```
+```> take while {flags} <predicate>```
 
 ## Parameters
 

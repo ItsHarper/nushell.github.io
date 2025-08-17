@@ -25,7 +25,7 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Signature
 
-```> polars slice {flags} (offset) (size)```
+```> polars slice {flags} <offset> <size>```
 
 ## Parameters
 

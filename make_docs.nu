@@ -155,7 +155,11 @@ def command-doc [command] {
     let sig = if $no_sig { '' } else {
         ($command.signatures | get $columns.0 | each { |param|
             if $param.parameter_type == "positional" {
-                $"('(')($param.parameter_name)(')')"
+                if $param.is_optional {
+                    $"('(')($param.parameter_name)(')')"
+                } else {
+                    $"<($param.parameter_name)>"
+                }
             } else if $param.parameter_type == "rest" {
                 $"...rest"
             }

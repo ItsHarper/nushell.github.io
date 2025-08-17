@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> parse {flags} (pattern)```
+```> parse {flags} <pattern>```
 
 ## Flags
 

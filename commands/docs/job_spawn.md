@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> job spawn {flags} (closure)```
+```> job spawn {flags} <closure>```
 
 ## Flags
 

@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> bytes index-of {flags} (pattern) ...rest```
+```> bytes index-of {flags} <pattern> ...rest```
 
 ## Flags
 

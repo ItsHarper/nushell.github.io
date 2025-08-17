@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> job tag {flags} (id) (tag)```
+```> job tag {flags} <id> <tag>```
 
 ## Parameters
 

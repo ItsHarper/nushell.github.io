@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> const {flags} (const_name) (initial_value)```
+```> const {flags} <const_name> <initial_value>```
 
 ## Parameters
 

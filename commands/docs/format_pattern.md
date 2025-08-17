@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> format pattern {flags} (pattern)```
+```> format pattern {flags} <pattern>```
 
 ## Parameters
 

@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> bytes at {flags} (range) ...rest```
+```> bytes at {flags} <range> ...rest```
 
 ## Parameters
 

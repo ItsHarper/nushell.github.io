@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> hide {flags} (module) (members)```
+```> hide {flags} <module> (members)```
 
 ## Parameters
 

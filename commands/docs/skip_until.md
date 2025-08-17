@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> skip until {flags} (predicate)```
+```> skip until {flags} <predicate>```
 
 ## Parameters
 

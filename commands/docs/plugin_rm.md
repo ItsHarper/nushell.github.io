@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> plugin rm {flags} (name)```
+```> plugin rm {flags} <name>```
 
 ## Flags
 

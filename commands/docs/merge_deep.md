@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> merge deep {flags} (value)```
+```> merge deep {flags} <value>```
 
 ## Flags
 

@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> insert {flags} (field) (new value)```
+```> insert {flags} <field> <new value>```
 
 ## Parameters
 

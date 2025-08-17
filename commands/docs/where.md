@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> where {flags} (condition)```
+```> where {flags} <condition>```
 
 ## Parameters
 

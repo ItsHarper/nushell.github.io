@@ -25,7 +25,7 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Signature
 
-```> query xml {flags} (query)```
+```> query xml {flags} <query>```
 
 ## Flags
 

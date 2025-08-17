@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> par-each {flags} (closure)```
+```> par-each {flags} <closure>```
 
 ## Flags
 

@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> str index-of {flags} (string) ...rest```
+```> str index-of {flags} <string> ...rest```
 
 ## Flags
 

@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> encode {flags} (encoding)```
+```> encode {flags} <encoding>```
 
 ## Flags
 

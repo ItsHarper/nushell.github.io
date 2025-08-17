@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> generate {flags} (closure) (initial)```
+```> generate {flags} <closure> (initial)```
 
 ## Parameters
 

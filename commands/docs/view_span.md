@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> view span {flags} (start) (end)```
+```> view span {flags} <start> <end>```
 
 ## Parameters
 

@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> filter {flags} (closure)```
+```> filter {flags} <closure>```
 
 ## Parameters
 

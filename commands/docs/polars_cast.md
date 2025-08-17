@@ -25,7 +25,7 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Signature
 
-```> polars cast {flags} (dtype) (column)```
+```> polars cast {flags} <dtype> (column)```
 
 ## Parameters
 

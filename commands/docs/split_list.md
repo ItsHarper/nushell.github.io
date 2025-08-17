@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> split list {flags} (separator)```
+```> split list {flags} <separator>```
 
 ## Flags
 

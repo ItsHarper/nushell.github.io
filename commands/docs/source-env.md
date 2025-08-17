@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> source-env {flags} (filename)```
+```> source-env {flags} <filename>```
 
 ## Parameters
 

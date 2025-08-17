@@ -25,7 +25,7 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Signature
 
-```> polars fill-null {flags} (fill)```
+```> polars fill-null {flags} <fill>```
 
 ## Parameters
 

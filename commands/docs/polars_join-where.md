@@ -25,7 +25,7 @@ See the [Plugins](/book/plugins.html) chapter in the book for more information.
 
 ## Signature
 
-```> polars join-where {flags} (other) (condition)```
+```> polars join-where {flags} <other> <condition>```
 
 ## Parameters
 

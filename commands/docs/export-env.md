@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> export-env {flags} (block)```
+```> export-env {flags} <block>```
 
 ## Parameters
 

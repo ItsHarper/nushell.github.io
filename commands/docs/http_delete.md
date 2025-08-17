@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> http delete {flags} (URL)```
+```> http delete {flags} <URL>```
 
 ## Flags
 

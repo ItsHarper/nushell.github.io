@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> sleep {flags} (duration) ...rest```
+```> sleep {flags} <duration> ...rest```
 
 ## Parameters
 

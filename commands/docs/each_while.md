@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> each while {flags} (closure)```
+```> each while {flags} <closure>```
 
 ## Parameters
 

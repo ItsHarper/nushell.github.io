@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> mut {flags} (var_name) (initial_value)```
+```> mut {flags} <var_name> <initial_value>```
 
 ## Parameters
 

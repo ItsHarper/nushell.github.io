@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> http head {flags} (URL)```
+```> http head {flags} <URL>```
 
 ## Flags
 

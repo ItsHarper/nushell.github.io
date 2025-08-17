@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> skip while {flags} (predicate)```
+```> skip while {flags} <predicate>```
 
 ## Parameters
 

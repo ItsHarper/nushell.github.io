@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> zip {flags} (other)```
+```> zip {flags} <other>```
 
 ## Parameters
 

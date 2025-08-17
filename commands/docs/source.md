@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> source {flags} (filename)```
+```> source {flags} <filename>```
 
 ## Parameters
 

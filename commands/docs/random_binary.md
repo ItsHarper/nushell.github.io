@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> random binary {flags} (length)```
+```> random binary {flags} <length>```
 
 ## Parameters
 

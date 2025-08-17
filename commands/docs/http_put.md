@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> http put {flags} (URL) (data)```
+```> http put {flags} <URL> (data)```
 
 ## Flags
 

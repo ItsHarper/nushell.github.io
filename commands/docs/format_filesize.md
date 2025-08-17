@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> format filesize {flags} (format value) ...rest```
+```> format filesize {flags} <format value> ...rest```
 
 ## Parameters
 

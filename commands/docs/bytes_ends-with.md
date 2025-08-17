@@ -18,7 +18,7 @@ contributors: false
 
 ## Signature
 
-```> bytes ends-with {flags} (pattern) ...rest```
+```> bytes ends-with {flags} <pattern> ...rest```
 
 ## Parameters
 
