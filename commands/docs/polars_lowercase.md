@@ -2,7 +2,7 @@
 title: polars lowercase
 categories: |
   dataframe
-version: 0.106.0
+version: 0.106.1
 dataframe: |
   Lowercase the strings in the column.
 usage: |

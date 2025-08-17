@@ -2,7 +2,7 @@
 title: random binary
 categories: |
   random
-version: 0.106.0
+version: 0.106.1
 random: |
   Generate random bytes.
 usage: |

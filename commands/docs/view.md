@@ -2,7 +2,7 @@
 title: view
 categories: |
   debug
-version: 0.106.0
+version: 0.106.1
 debug: |
   Various commands for viewing debug information.
 usage: |

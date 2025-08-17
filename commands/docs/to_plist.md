@@ -2,7 +2,7 @@
 title: to plist
 categories: |
   formats
-version: 0.106.0
+version: 0.106.1
 formats: |
   Convert Nu values into plist
 usage: |

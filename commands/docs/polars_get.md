@@ -2,7 +2,7 @@
 title: polars get
 categories: |
   dataframe
-version: 0.106.0
+version: 0.106.1
 dataframe: |
   Creates dataframe with the selected columns.
 usage: |

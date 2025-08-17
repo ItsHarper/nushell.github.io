@@ -2,7 +2,7 @@
 title: polars horizontal
 categories: |
   expression
-version: 0.106.0
+version: 0.106.1
 expression: |
   Horizontal calculation across multiple columns.
 usage: |

@@ -2,7 +2,7 @@
 title: polars qcut
 categories: |
   dataframe
-version: 0.106.0
+version: 0.106.1
 dataframe: |
   Bin continuous values into discrete categories based on their quantiles for a series.
 usage: |

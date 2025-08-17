@@ -2,7 +2,7 @@
 title: zip
 categories: |
   filters
-version: 0.106.0
+version: 0.106.1
 filters: |
   Combine a stream with the input.
 usage: |

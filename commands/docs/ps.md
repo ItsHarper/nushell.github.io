@@ -2,7 +2,7 @@
 title: ps
 categories: |
   system
-version: 0.106.0
+version: 0.106.1
 system: |
   View information about system processes.
 usage: |

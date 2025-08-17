@@ -2,7 +2,7 @@
 title: math sin
 categories: |
   math
-version: 0.106.0
+version: 0.106.1
 math: |
   Returns the sine of the number.
 usage: |

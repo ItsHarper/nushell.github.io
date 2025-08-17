@@ -2,7 +2,7 @@
 title: lines
 categories: |
   filters
-version: 0.106.0
+version: 0.106.1
 filters: |
   Converts input to lines.
 usage: |
